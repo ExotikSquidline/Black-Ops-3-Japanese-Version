@@ -15,6 +15,10 @@ The Lag only happends once since the game needs to load in all the Japanese char
 * oJumpy - inital idea to buy the game and start this whole project ,buying the Game with me
 * Tex - Buying the Japanese
 
+## Donations
 
+* Feel free to donate if u want since we both put in a lot of money and effort to get the japanese Game
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/ExoticSquidline)
 
 **If you use this mod in any of your projects, it would be highly appreciated if you credit the people/parties listed in the Credits list.**
